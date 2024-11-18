@@ -7,6 +7,8 @@ package com.scanner.project;
 // the code and also make sure it implements a scanner for JAY - not something
 // else.
 
+// Russell Ng and Joel Avendano Scanner
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
